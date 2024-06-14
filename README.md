@@ -5,6 +5,8 @@
   </tr>
 </table>
 
+---
+
 <p align="center">
   <a href="https://aoc-dev.io">
     <img width="180" src="https://github.com/atlantis-of-code/aoc-dev/assets/273590/e6ba0687-18f5-4c0a-9c76-ecd5fc0e7924">
