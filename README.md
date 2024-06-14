@@ -115,13 +115,13 @@ For all this and more you will find guides and tutorials in our documentation.
 <table align="center">
   <tr>
     <td>
-      <a href="https://quest.atlantisofcode.com">
+      <a href="https://quest.aoc-dev.io">
         <img width="180" src="https://github.com/atlantis-of-code/aoc-dev/assets/273590/349b9229-2fdf-4190-964a-a0aaa7701e96">
       </a>
     </td>
   </tr>
   <tr>
-    <td><p align="center"><a href="https://quest.atlantisofcode.com"><strong>Quest for Atlantis</strong></a></p></td>
+    <td><p align="center"><a href="https://quest.aoc-dev.io"><strong>Quest for Atlantis</strong></a></p></td>
   </tr>
 </table>
 
