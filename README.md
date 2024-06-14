@@ -12,7 +12,7 @@ The AOC Framework
 
 **Develop ERP-style applications in TypeScript**
 
-[![Discord](https://img.shields.io/discord/804408044708560977?label=Discord&style=flat)](https://discord.com/channels/804408044708560977/804652261338775593)
+<!-- [![Discord](https://img.shields.io/discord/804408044708560977?label=Discord&style=flat)](https://discord.com/channels/804408044708560977/804652261338775593) -->
 
 </div>
 
