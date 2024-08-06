@@ -160,6 +160,6 @@ front end, for example.
 **A:** If you make a commercial usage, yes. Check our prices in [our website](https://aoc-dev.io)
 
 ## npm Packages
-* **@atlantis-of-code/aoc-client**
-* **@atlantis-of-code/aoc-server**
-* **@atlantis-of-code/aoc-cli**
+* [**@atlantis-of-code/aoc-client**](https://www.npmjs.com/package/@atlantis-of-code/aoc-client)
+* [**@atlantis-of-code/aoc-server**](https://www.npmjs.com/package/@atlantis-of-code/aoc-server)
+* [**@atlantis-of-code/aoc-cli**](https://www.npmjs.com/package/@atlantis-of-code/aoc-cli)
